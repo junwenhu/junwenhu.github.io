@@ -11,7 +11,7 @@ dating app use: The moderating role of algorithmic beliefs**
 <br>[PDF](https://doi.org/10.5817/CP2023-4-2)
 
 <p align="left">
-  <img src="https://github.com/junwenhu/junwenhu.github.io/blob/master/assets/img/figure1hurui2023.png" alt="Figure 1 of Hu and Rui 2023" width="50%">
+  <img src="assets/img/figure1hurui2023.png" alt="Figure 1 of Hu and Rui 2023" width="50%">
 </p>
 
 **Familiarity breeds trust? The relationship between dating app use and trust in dating algorithms via algorithm 
