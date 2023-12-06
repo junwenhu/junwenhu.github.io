@@ -10,9 +10,7 @@ dating app use: The moderating role of algorithmic beliefs**
 <br>*Cyberpsychology: Journal of Psychosocial Research on Cyberspace*, Sep, 2023.
 <br>[PDF](https://doi.org/10.5817/CP2023-4-2)
 
-<center>
-![Figure 1 of Hu and Rui 2023](https://raw.githubusercontent.com/junwenhu/junwenhu.github.io/master/assets/img/figure%201%20of%20hu%20rui%202023.png)
-</center>
+![Figure 1 of Hu and Rui 2023](https://github.com/junwenhu/junwenhu.github.io/blob/master/assets/img/figure1hurui2023.png)
 
 **Familiarity breeds trust? The relationship between dating app use and trust in dating algorithms via algorithm 
 awareness and critical algorithm perceptions**
