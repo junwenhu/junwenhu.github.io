@@ -10,7 +10,7 @@ title: Publication
 <br>[PDF]([https://www.tandfonline.com/eprint/SEKDFGVFEGVBWERXWTKD/full?target=10.1080/0144929X.2023.2299297)
 
 <p align="left">
-  <img src="https://junwenhu.github.io/assets/img/fig2huzhan2024.png" alt="Figure 2 of Hu and Zhan 2024" width="70%">
+  <img src="https://junwenhu.github.io/assets/img/fig2huzhan24.png" alt="Figure 2 of Hu and Zhan 2024" width="70%">
 </p>
 
 **The relationship between preference for online social interaction and affective well-being via compulsive 
