@@ -4,9 +4,18 @@ title: Publication
 #subtitle: Why am I interested in relationship-seeking?
 ---
 
+**Algorithm awareness in online dating: associations with mate-searching difficulty and future expectancies among U.S. online daters**
+<br>[Junwen Hu](https://comartsci.msu.edu/our-people/junwen-hu) and [Emily (Shuo) Zhan](https://comartsci.msu.edu/our-people/shuo-emily-zhan)
+<br>*Behaviour & Information Technology*, Jan, 2024.
+<br>[PDF]([https://www.tandfonline.com/eprint/SEKDFGVFEGVBWERXWTKD/full?target=10.1080/0144929X.2023.2299297)
+
+<p align="left">
+  <img src="https://junwenhu.github.io/assets/img/fig2huzhan2024.png" alt="Figure 2 of Hu and Zhan 2024" width="70%">
+</p>
+
 **The relationship between preference for online social interaction and affective well-being via compulsive 
 dating app use: The moderating role of algorithmic beliefs**
-<br>Junwen Hu and [Jian (Raymond) Rui](https://scholar.google.com/citations?user=G9CYx9MAAAAJ&hl=en)
+<br>[Junwen Hu](https://comartsci.msu.edu/our-people/junwen-hu) and [Jian (Raymond) Rui](https://scholar.google.com/citations?user=G9CYx9MAAAAJ&hl=en)
 <br>*Cyberpsychology: Journal of Psychosocial Research on Cyberspace*, Sep, 2023.
 <br>[PDF](https://doi.org/10.5817/CP2023-4-2)
 
@@ -16,7 +25,7 @@ dating app use: The moderating role of algorithmic beliefs**
 
 **Familiarity breeds trust? The relationship between dating app use and trust in dating algorithms via algorithm 
 awareness and critical algorithm perceptions**
-<br>Junwen Hu and [Rui Wang](https://ruiwang-ub.github.io/)
+<br>[Junwen Hu](https://comartsci.msu.edu/our-people/junwen-hu) and [Rui Wang](https://ruiwang-ub.github.io/)
 <br>*International Journal of Human-Computer Interaction*, May, 2023.
 <br>[PDF](https://doi.org/10.1080/10447318.2023.2217014) | [Measures](https://www.researchgate.net/publication/371169210_Familiarity_Breeds_Trust_The_Relationship_between_Dating_App_Use_and_Trust_in_Dating_Algorithms_via_Algorithm_Awareness_and_Critical_Algorithm_Perceptions?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0)
 
@@ -26,7 +35,7 @@ awareness and critical algorithm perceptions**
 
 **Exploring the impact of a ‘confining’ imaginary of user-recommendation systems on platform usage and relationship 
 development among dating app users**
-<br>Junwen Hu
+<br>[Junwen Hu](https://comartsci.msu.edu/our-people/junwen-hu)
 <br>*Behaviour & Information Technology*. April, 2023
 <br>[PDF](https://doi.org/10.1080/0144929X.2023.2201353)
 
@@ -36,6 +45,6 @@ development among dating app users**
 
 **What Does Channel Say? Understanding How Social Media Social Capital Facilitates COVID‐19‐Related Information‐Seeking 
 and Opinion‐Expression on Two Types of Platforms: User‐oriented versus Content‐oriented**
-<br>Junwen Hu 
+<br>[Junwen Hu](https://comartsci.msu.edu/our-people/junwen-hu)
 <br>*Proceedings of the Association for Information Science and Technology*, Oct, 2021 
 <br>[PDF](https://doi.org/10.1002/pra2.546)
