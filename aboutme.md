@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why am I interested in relationship issues among single people?
+subtitle: Why am I interested in voluntary relationships? 
 ---
 
 I was born in a working-class family in a conservative Southwestern town, [Liuzhou](https://en.wikipedia.org/wiki/Liuzhou), and yet a sexual minority. I had both good and bad social experience living with contradicting identities. I knew I needed to find a place where I fit better. I tried hard. With kind help and luck, I was admitted to one of the best universities in China in 2016 – [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University), where people are supposed to be more open-minded. Meanwhile, I had a new identity – a first-generation college student. I started to work part-time (as an English tutor, a café waiter, etc.) to support myself through college and finally made a lot of great friends along the way. They came from very different backgrounds, but somehow for the ones I kept, we fit well together. After six years in Nanjing, I obtained my BA and MA. Then I worked in Shanghai in the internet industries for a while and made more friends before coming to MSU.
