@@ -5,17 +5,50 @@ subtitle: (How) do you believe in love?
 use-site-title: true
 ---
 
-<div style="text-align: center;">
-  <div style="width: 100%;">
+<style>
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+  }
+  .content {
+    width: 100%;
+  }
+  .image {
+    width: 100%;
+    max-width: 400px; /* Adjust the max-width as needed */
+  }
+
+  @media (min-width: 768px) {
+    .container {
+      flex-direction: row;
+      justify-content: space-between;
+      text-align: left;
+    }
+    .content {
+      width: 60%;
+    }
+    .image {
+      width: 35%;
+      max-width: none;
+    }
+  }
+</style>
+
+<div class="container">
+  <div class="content">
     <p>
       I am a Ph.D. student at <a href="https://comartsci.msu.edu/our-people/junwen-hu/">the Department of Communication, Michigan State University</a>. 
       I study how interpersonal communication (IPC) and new technologies shape voluntary relationships.
       I am a top student paper winner at our top conference (ICA) and have published in high-impact journals such as <i>Computers in Human Behavior</i> (IF = 9.0) as the sole or first author. 
     </p>
   </div>
-  <div style="width: 100%;">
+  <div class="image">
     <p align="center">
-      <img src="https://junwenhu.github.io/assets/img/do_you_believe_in_love2.gif" alt="DYBIL" width="35%">
+      <img src="https://junwenhu.github.io/assets/img/do_you_believe_in_love2.gif" alt="DYBIL" width="100%">
     </p>
   </div>
 </div>
