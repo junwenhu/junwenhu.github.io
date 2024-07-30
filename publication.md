@@ -4,6 +4,12 @@ title: Publication
 #subtitle: Why am I interested in relationship-seeking?
 ---
 
+**Does online dating make relationships more successful? Replication and extension of a previous study**
+<br>[Junwen Hu](https://comartsci.msu.edu/our-people/junwen-hu)
+<br>*Cyberpsychology, Behavior, and Social Networking*, Jul, 2024.
+<br>[PDF](https://authors.elsevier.com/a/1jQPv2f%7EUWQUzj)
+<br>**Key concern**<br>Are you curious whether relationships beginning in online dating are more successful than those that begin offline? We had different findings than research conducted a decade ago. Click to read more.<br><br>
+
 **The affective and relational correlates of algorithmic beliefs among U.S. online daters: Extension of two previous studies**
 <br>[Junwen Hu](https://comartsci.msu.edu/our-people/junwen-hu)
 <br>*Computers in Human Behavior*, Jul, 2024.
