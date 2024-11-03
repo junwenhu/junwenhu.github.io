@@ -4,8 +4,14 @@ title: Publication
 #subtitle: Why am I interested in relationship-seeking?
 ---
 
-**Does online dating make relationships more successful? Replication and extension of a previous study**
+**Social network density mediates the association between problematic social media use and depressive symptoms**
 <br>[Junwen Hu](https://comartsci.msu.edu/our-people/junwen-hu)
+<br>*International Journal of Human-Computer Interaction*, Sep, 2024.
+<br>[PDF](https://doi.org/10.1080/10447318.2024.2404262)
+<br>**Key concern**<br>Problematic social media use is associated with having a more loosely-connected personal network and more depressive symptoms. Click to read more.<br><br>
+
+**Does online dating make relationships more successful? Replication and extension of a previous study**
+<br>[Junwen Hu](https://comartsci.msu.edu/our-people/junwen-hu), [Rui Zhu](https://comartsci.msu.edu/our-people/rui-cara-zhu), and [Yue Zhang](https://comartsci.msu.edu/our-people/yue-zhang)
 <br>*Cyberpsychology, Behavior, and Social Networking*, Jul, 2024.
 <br>[PDF](https://authors.elsevier.com/a/1jQPv2f%7EUWQUzj)
 <br>**Key concern**<br>Are you curious whether relationships beginning in online dating are more successful than those that begin offline? We had different findings than research conducted a decade ago. Click to read more.<br><br>
