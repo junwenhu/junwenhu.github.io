@@ -10,6 +10,6 @@ I am a first-generation college student. Going to an elite university forced me 
 
 In my leisure time, I like learning languages. Though not a language major, I was a certified translator and interpreter. I am also actively learning German and Spanish. 
 
-I am looking forward to chatting with you. My work can be found through [Google Scholar](https://scholar.google.com/citations?user=duu3b-IAAAAJ&hl=zh-CN) and I also summarize research highlights on this [website](https://junwenhu.github.io/publication/). You may reach out to me through the email icon below. 
+I am looking forward to chatting with you. My work can be found through [Google Scholar](https://scholar.google.com/citations?user=duu3b-IAAAAJ&hl) and I also summarize research highlights on this [website](https://junwenhu.github.io/publication/). You may reach out to me through the email icon below. 
 
 P. S. A quick way to pronounce my name is June-One. 
