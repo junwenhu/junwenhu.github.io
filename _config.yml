@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Jun (Junwen) Hu
+title: Juno (Junwen) Hu
 
 # Your name to show in the footer
-author: Jun (Junwen) Hu
+author: Juno (Junwen) Hu
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -59,7 +59,7 @@ social-network-links:
   #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: jun-hu-008484188
+  linkedin: juno-hu-008484188
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -74,7 +74,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  bluesky: yourname
   ORCID: 0000-0001-9571-9947
-  google-scholar: Jun Hu
+  google-scholar: Junwen Hu
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
