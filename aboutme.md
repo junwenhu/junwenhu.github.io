@@ -1,15 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why interested in relationship decisions?  
+subtitle: Why interested in communication and relationships?  
 ---
 
-I was rasied in a suburban working-class family in Southern China. I went to [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University), a member of the elitist [C9 League universities](https://en.wikipedia.org/wiki/C9_League), where I received my BA in Advertising (Graduation with Honor) and MA in Journalism and Communication. 
+I was born and raised in a humble working-class family but stumbled my way into higher education, which was a big transition. Many friends and mentors at that stage helped me a lot. That experience made me realize the importance of building supportive relationships. But it's hard, and it needs strategies. This puzzle motivates me to pursue answers as a communication scholar, publish passionately, and promote awareness in effective communication. 
 
-I am a first-generation college student. Going to an elite university offered me opportunities to mingle into groups of people from very different backgrounds. Every day, it felt like there were many relationship decisions for me to make, each leading to a different future. This great experience has been inspiring me to study how relationships are formed and evolve in contemporary societies of high social mobilities, and which approaches to making relationship decisions bring more rewards for agents like me and you. I am happy to have built an exciting line of research that addresses critical contemporary problems from relationships and technology perspectives.  
+Below are links to media reports of my recent findings:
 
-In my leisure time, I like learning languages. Though not a language major, I was a certified translator and interpreter. I am also actively learning German and Spanish. 
+[Psychology Today: Which better protects us from depression, friendship or romance?](https://www.psychologytoday.com/us/blog/living-single/202505/which-protects-best-from-depression-friendship-or-romance)
 
-I am looking forward to chatting with you. My work can be found through [Google Scholar](https://scholar.google.com/citations?user=duu3b-IAAAAJ&hl). You may reach out to me through the contact icons below. 
+[PsyPost: More choices on dating apps actually increase commitment, new study suggests](https://www.psypost.org/more-choices-on-dating-apps-actually-increase-commitment-new-study-suggests/)
 
-P. S. You are saying my name right-it's Jun-wen Hu (Who). 
+But my life is not all about work. In my leisure time, I am a fan of the electronic/dance music culture (house, techno...). I also enjoy studying new languages (ahora estoy estudiando español). To me these hobbies go with my academic interest, which is to build culture of connection and care. If you are interested in my work and have questions for me, please reach out via email on the home page. 
+
+*Views are my own, not my institution's. 
